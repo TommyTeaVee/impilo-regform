@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
-import StepperForm from "./components/StepperForm";
+import StepperForm from "./components/RegistrationForm";
 import AdminDashboard from "./components/AdminDashboard";
 import RegistrationDetail from "./components/RegistrationDetail";
 
